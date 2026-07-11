@@ -20,12 +20,12 @@
 To become an AI/ML Engineer by building practical projects and continuously improving my skills.
 
 ## 📂 Current Projects
-Linkedin Profile link:
-https://www.linkedin.com/in/ahmad-rifayee-bba01123b/
-
 - 🧬 Antibiotic Resistance Gene Classification
 - 📊 Machine Learning Practice
 - 🤖 AI Learning Journey
 
 ---
+## Social Media:
+Linkedin Profile link:
+https://www.linkedin.com/in/ahmad-rifayee-bba01123b/
 ⭐ Thanks for visiting my profile!
